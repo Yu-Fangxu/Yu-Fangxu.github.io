@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yu Fangxu"
-  avatar           : "..images/profile.png"
+  avatar           : "profile.png"
   bio              : "Master student, School of AI, Nanjing University"
   location         : "Nanjing, China"
   employer         :
