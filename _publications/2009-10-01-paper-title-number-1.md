@@ -1,14 +1,15 @@
 ---
-title: "NTIRE 2021 Challenge on Video Super-Resolution"
+title: "Paper Title Number 2"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Design a spatiotemporal video super-resolution method for both frame interpolation and super-resolution'
-date: 2021-04-0.9
-venue: 'CVPR2021 Workshop'
-paperurl: 'https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Son_NTIRE_2021_Challenge_on_Video_Super-Resolution_CVPRW_2021_paper.pdf'
-citation: # 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2010-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
+This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
