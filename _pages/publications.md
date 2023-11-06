@@ -22,6 +22,6 @@ CVPR Workshops 2021.
 
 ## Journal
 <li><p><b>Bidirectional Recurrent Gamma Belief Network for HRRP Target Recognition</b> <br> 
-W Chen, B Chen*, Y Liu, X Peng, H Fan, <b>F Yu</b>, H Liu.<br>
+Wenchao Chen, Bo Chen, Yicheng Liu, Xiaojun Peng, Haoyang Fan, <b>Fangxu Yu</b>, Hongwei Liu<br>
 Signal Processing, 2021.
 </p></li>
