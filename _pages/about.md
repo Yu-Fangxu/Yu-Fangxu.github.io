@@ -13,5 +13,12 @@ I am a second-year master's student from the [School of Artificial Intelligence 
 My research interests lie in machine learning and natural language processing, including
 1. Sentiment analysis and dialogue modeling
 2. Controllable and constrained text generation
-3. explainability and trustworthiness of graph models
+3. Explainability and trustworthiness of graph models
 4. Graph learning applications in NLP
+
+## News
+Sep 2021: I'm admitted to study for an M.Sc. degree in the School of Artificial Intelligence at Nanjing University without an entrance examination.
+
+July 2021: Awarded as Excellent Campers by Institue of Automation, Chinese Academy of Sciences
+
+June 2021: one paper accepted in Signal Processing. The work proposes an unsupervised bidirectional deep probabilistic model for Radar Target Recognition.
