@@ -4,20 +4,24 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+## Conference
 <ul>
-<li>MolCPT: Molecule Continuous Prompt Tuning to Generalize Molecular Representation Learning<br />
-<b>Kaixiong Zhou*</b>, Cameron Diao*, Xiao Huang, Xia Hu.<br /></li>
+<li><p><b>MSGF: A Multi-Semantic Graph Fusion Network for Causal Emotion Entailment”</b> <br> 
+<b>Fangxu Yu</b>, Junjie Guo, Zhen Wu, Xinyu Dai<br>
+COLING 2024, Under Review
 
-<li>A Survey of Graph Prompting Methods: Techniques, Applications, and Challenges<br />
-Xuansheng Wu*, <b>Kaixiong Zhou*</b>, Mingchen Sun, Xin Wang, Ninghao Liu.<br /></li>
+<li><p><b>Emotion-Anchored Contrastive Learning Framework for Emotion Recognition in Conversation</b> <br> 
+<b>Fangxu Yu</b>, Junjie Guo, Zhen Wu, Xinyu Dai<br>
+In Submission to NAACL 2024
 
-<li>Editable Graph Neural Network for Node Classifications<br />
-Zirui Liu, Zhimeng Jiang, Shaochen Zhong, <b>Kaixiong Zhou</b>, Li Li, Rui Chen, Soo-Hyun Choi, Xia Hu.<br /></li>
-
-<li>Compress, Then Prompt: Improving Accuracy-Efficiency Trade-off of LLM Inference with Transferable Prompt<br />
-Zhaozhuo Xu, Zirui Liu, Beidi Chen, Yuxin Tang, Jue Wang, <b>Kaixiong Zhou</b>, Xia Hu, Anshumali Shrivastava.<br /></li>
-
-<li>Winner-Take-All Column Row Sampling for Memory Efficient Adaptation of Language Model<br />
-Zirui Liu, Guanchu Wang, Shaochen Zhong, Zhaozhuo Xu, Daochen Zha, Ruixiang Tang, Zhimeng Jiang, <b>Kaixiong Zhou</b>, Vipin Chaudhary, Shuai Xu, Xia Hu.<br /></li>
+<li><p><b>NTIRE 2021 Challenge on Video Super-Resolution</b> <br> 
+Sanghyun Son, Suyoung Lee, Seungjun Nah, Radu Timofte, Kyoung Mu Lee etc.<br>
+CVPR Workshops 2021.
+</p></li>
 </ul>
+
+## Journal
+<li><p><b>Bidirectional Recurrent Gamma Belief Network for HRRP Target Recognition</b> <br> 
+W Chen, B Chen*, Y Liu, X Peng, H Fan, <b>F Yu</b>, H Liu.<br>
+Signal Processing, 2021.
+</p></li>
