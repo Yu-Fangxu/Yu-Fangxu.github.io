@@ -8,15 +8,15 @@ author_profile: true
 <ul>
 <li><p><b>MSGF: A Multi-Semantic Graph Fusion Network for Causal Emotion Entailment”</b> <br> 
 <b>Fangxu Yu</b>, Junjie Guo, Zhen Wu, Xinyu Dai<br>
-COLING 2024, Under Review
+COLING 2024, Under Review</li>
 
 <li><p><b>Emotion-Anchored Contrastive Learning Framework for Emotion Recognition in Conversation</b> <br> 
 <b>Fangxu Yu</b>, Junjie Guo, Zhen Wu, Xinyu Dai<br>
-In Submission to NAACL 2024
+In Submission to NAACL 2024</li>
 
 <li><p><b>NTIRE 2021 Challenge on Video Super-Resolution</b> <br> 
 Sanghyun Son, Suyoung Lee, Seungjun Nah, Radu Timofte, Kyoung Mu Lee etc.<br>
-CVPR Workshops 2021.
+CVPR Workshops 2021.</li>
 </ul>
 
 ## Journal
