@@ -36,7 +36,7 @@ Internship
 -- Advisor: <a href="https://cs.stanford.edu/~shirwu/">Shirley Wu</a></li>
 <li> Research Intern at UCSD, September 2023 - Present <br />
 -- Research topics: Constrained & Controlled Text Generation <br /></li>
--- Advisor: <a href="https://sites.google.com/view/lianhuiqin">Lianhui Qin</a></li>
+-- Advisor: <a href="https://sites.google.com/view/lianhuiqin">Prof. Lianhui Qin</a></li>
 </ul>
 
 Service
