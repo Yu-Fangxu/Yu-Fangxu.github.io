@@ -26,8 +26,8 @@ Internship
 =====
 <ul>
 <li> Research Intern at Xidian University, June 2020 - June 2022  <br />
--- Research topics: Probabilistic Topic Model <br /></li>
-
+-- Research topics: Probabilistic Topic Model <br />
+-- Advisor: <a href="https://web.xidian.edu.cn/bchen/en/index.html">Prof. Bo Chen</a></li>
 <li> Research Intern at Xidian University, January 2021 - April 2021 <br />
 -- Research topics: Video Super-Resolution <br /></li>
 
