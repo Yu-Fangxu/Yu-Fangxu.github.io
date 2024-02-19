@@ -4,6 +4,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## Preprint
+<ul>
+<li>COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability <br />
+Xingang Guo*, <b>Fangxu Yu</b>*, Huan Zhang, Lianhui Qin, Bin Hu<br />
+Arxiv, 2024<br /></li>
+
 ## Conference
 <ul>
 <li>MSGF: A Multi-Semantic Graph Fusion Network for Causal Emotion Entailment <br />
