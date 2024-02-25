@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 ## Preprint
-<!-- <ul>
+<ul>
 <li>COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability <br />
 Xingang Guo*, <b>Fangxu Yu</b>*, Huan Zhang, Lianhui Qin, Bin Hu<br />
 Arxiv, 2024<br /></li>
-</ul> -->
+</ul>
 
 ## Conference
 <ul>
