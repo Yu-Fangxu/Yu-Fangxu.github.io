@@ -18,6 +18,8 @@ My research interests lie in machine learning and natural language processing, i
 </ul>
 
 ## News
+March 2024: One paper accepted in NAACL2024 Findings. We propose a novel contrastive learning framework to better distinguish similar emotions in Emotion Recognition in Conversation.
+
 Sep 2021: I'm admitted to study for an M.Sc. degree in the School of Artificial Intelligence at Nanjing University without an entrance examination.
 
 July 2021: Awarded as Excellent Camper by the Institute of Automation, Chinese Academy of Sciences
