@@ -19,7 +19,7 @@ COLING 2024, Under Review<br /></li>
 
 <li>Emotion-Anchored Contrastive Learning Framework for Emotion Recognition in Conversation<br />
 <b>Fangxu Yu</b>, Junjie Guo, Zhen Wu, Xinyu Dai<br />
-In Submission to NAACL 2024<br /></li>
+NAACL Findings, 2024<br /></li>
 
 <li>NTIRE 2021 Challenge on Video Super-Resolution<br />
 Sanghyun Son, Suyoung Lee, Seungjun Nah, Radu Timofte, Kyoung Mu Lee etc.<br />
