@@ -5,14 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 ## Preprint
+## Conference
 <ul>
 <li>COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability <br />
 Xingang Guo*, <b>Fangxu Yu</b>*, Huan Zhang, Lianhui Qin, Bin Hu<br />
-Arxiv, 2024<br /></li>
-</ul>
-
-## Conference
-<ul>
+ICML, 2024<br /></li>
+  
 <li>MSGF: A Multi-Semantic Graph Fusion Network for Causal Emotion Entailment <br />
 <b>Fangxu Yu</b>, Junjie Guo, Zhen Wu, Xinyu Dai<br />
 COLING 2024, Under Review<br /></li>
