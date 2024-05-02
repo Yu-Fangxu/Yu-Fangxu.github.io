@@ -18,12 +18,12 @@ My research interests lie in machine learning and natural language processing, i
 </ul>
 
 ## News
-May 2024: One paper accepted in ICML 2024! We adapt the Energy-based Constrained Decoding with Langevin Dynamics (COLD) to develop the COLD-Attack framework which unifies and automates the search of adversarial LLM attacks under a variety of control requirements such as fluency, stealthiness, sentiment, and left-right-coherence.
+May 2024: One paper accepted to ICML 2024! We adapt the Energy-based Constrained Decoding with Langevin Dynamics (COLD) to develop the COLD-Attack framework which unifies and automates the search of adversarial LLM attacks under a variety of control requirements such as fluency, stealthiness, sentiment, and left-right-coherence.
 
-March 2024: One paper accepted in Findings of NAACL 2024! We propose a novel contrastive learning framework to better distinguish similar emotions in Emotion Recognition in Conversation.
+March 2024: One paper is accepted to Findings of NAACL 2024! We propose a novel contrastive learning framework to better distinguish similar emotions in Emotion Recognition in Conversation.
 
 Sep 2021: I'm admitted to study for an M.Sc. degree in the School of Artificial Intelligence at Nanjing University without an entrance examination.
 
 July 2021: Awarded as Excellent Camper by the Institute of Automation, Chinese Academy of Sciences
 
-June 2021: one paper accepted in Signal Processing. The work proposes an unsupervised bidirectional deep probabilistic model for Radar Target Recognition.
+June 2021: one paper is accepted to Signal Processing. The work proposes an unsupervised bidirectional deep probabilistic model for Radar Target Recognition.
