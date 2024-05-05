@@ -19,6 +19,7 @@ COLING 2024, Under Review<br /></li>
 <b>Fangxu Yu</b>, Junjie Guo, Zhen Wu, Xinyu Dai<br />
 Findings of NAACL, 2024<br /></li>
 </ul>
+
 ## Journal
 <ul>
 <li>Bidirectional Recurrent Gamma Belief Network for HRRP Target Recognition<br />
