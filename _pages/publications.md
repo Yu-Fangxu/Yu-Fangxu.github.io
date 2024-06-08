@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 ## Preprint
+<ul>
+<li>Flow of Reasoning: Efficient Training of LLM Policy with Divergent Thinking <br />
+<b>Fangxu Yu</b>, Lai Jiang, Haoqiang Kang, Shibo Hao, Lianhui Qin<br />
+arxiv, 2024<br /></li>
+</ul>
 ## Conference
 <ul>
 <li>COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability <br />
