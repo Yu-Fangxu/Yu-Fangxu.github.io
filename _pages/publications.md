@@ -10,6 +10,7 @@ author_profile: true
 <b>Fangxu Yu</b>, Lai Jiang, Haoqiang Kang, Shibo Hao, Lianhui Qin<br />
 arxiv, 2024<br /></li>
 </ul>
+
 ## Conference
 <ul>
 <li>COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability <br />
