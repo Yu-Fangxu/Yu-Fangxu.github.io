@@ -19,7 +19,7 @@ ICML, 2024<br /></li>
   
 <li>MSGF: A Multi-Semantic Graph Fusion Network for Causal Emotion Entailment <br />
 <b>Fangxu Yu</b>, Junjie Guo, Zhen Wu, Xinyu Dai<br />
-COLING 2024, Under Review<br /></li>
+Under Review<br /></li>
 
 <li>Emotion-Anchored Contrastive Learning Framework for Emotion Recognition in Conversation<br />
 <b>Fangxu Yu</b>, Junjie Guo, Zhen Wu, Xinyu Dai<br />
