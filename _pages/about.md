@@ -12,9 +12,9 @@ I am a second-year master's student from the [School of Artificial Intelligence]
 
 My research interests lie in machine learning and natural language processing, including
 <ul>
-<li>Sentiment analysis and dialogue modeling<br /></li>
+<li>Sentiment analysis and emotional intelligence<br /></li>
 <li>Controllable and constrained text generation<br /></li>
-<li>Graph learning applications in NLP<br /></li>
+<li>LLM reasoning and planning<br /></li>
 </ul>
 
 ## News
