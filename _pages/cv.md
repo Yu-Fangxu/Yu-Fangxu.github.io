@@ -42,5 +42,5 @@ Internship
 Service
 =====
 <ul>
-<li> Teaching Assistant: Introduction to AI programming, Undergraduate course, Nanjing University, Spring 2023 <br /></li>
+Reviewer: EMNLP 2024
 </ul>
