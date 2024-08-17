@@ -8,7 +8,7 @@ author_profile: true
 <ul>
 <li>Flow of Reasoning: Efficient Training of LLM Policy with Divergent Thinking <br />
 <b>Fangxu Yu</b>, Lai Jiang, Haoqiang Kang, Shibo Hao, Lianhui Qin<br />
-arxiv, 2024<br /> <a href="https://arxiv.org/pdf/2406.05673">[pdf] </a>
+arxiv, 2024 <a href="https://arxiv.org/pdf/2406.05673">[pdf]</a><br /> 
 </li>
 </ul>
 
