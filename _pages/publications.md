@@ -21,7 +21,7 @@ ICML, 2024 <a href="https://arxiv.org/pdf/2402.08679">[pdf]</a><br />
 
 <li>Emotion-Anchored Contrastive Learning Framework for Emotion Recognition in Conversation<br />
 <b>Fangxu Yu</b>, Junjie Guo, Zhen Wu, Xinyu Dai<br />
-Findings of NAACL, 2024 <a href="https://arxiv.org/pdf/2402.08679">[pdf] </a><br />
+Findings of NAACL, 2024 <a href="https://aclanthology.org/2024.findings-naacl.282.pdf">[pdf] </a><br />
 </li>
 </ul>
 
