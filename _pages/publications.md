@@ -13,6 +13,7 @@ arxiv, 2024 <a href="https://arxiv.org/pdf/2406.05673">[pdf] </a><br />
 <li>Beyond Verbal Cues: Emotional Contagion Graph Network for Causal Emotion Entailment <br />
 <b>Fangxu Yu</b>, Junjie Guo, Zhen Wu, Xinyu Dai<br />
 Under Review
+</li>
 </ul>
 
 ## Conference
