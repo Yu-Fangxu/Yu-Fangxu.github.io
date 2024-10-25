@@ -6,10 +6,13 @@ author_profile: true
 ---
 ## Preprint
 <ul>
-<li>Flow of Reasoning: Efficient Training of LLM Policy with Divergent Thinking <br />
+<li>Flow of Reasoning: Training LLMs for Divergent Problem Solving with Minimal Examples <br />
 <b>Fangxu Yu</b>, Lai Jiang, Haoqiang Kang, Shibo Hao, Lianhui Qin<br />
 arxiv, 2024 <a href="https://arxiv.org/pdf/2406.05673">[pdf] </a><br /> 
 </li>
+<li>Beyond Verbal Cues: Emotional Contagion Graph Network for Causal Emotion Entailment <br />
+<b>Fangxu Yu</b>, Junjie Guo, Zhen Wu, Xinyu Dai<br />
+Under Review
 </ul>
 
 ## Conference
