@@ -12,9 +12,9 @@ I am a final-year master's student from the [School of Artificial Intelligence](
 
 My research interests lie in machine learning and natural language processing, including
 <ul>
-<li>Sentiment analysis and emotional intelligence<br /></li>
-<li>Controllable and constrained text generation<br /></li>
-<li>LLM reasoning and planning<br /></li>
+<li>LLM Reasoning and Planning<br /></li>
+<li>Probabilistic Machine Learning<br /></li>
+<li>Neurosymbolic Reasoning with LLMs<br /></li>
 </ul>
 
 ## News
