@@ -7,11 +7,15 @@ author_profile: true
 ## Preprint
 <ul>
 <li>Flow of Reasoning: Training LLMs for Divergent Problem Solving with Minimal Examples <br />
-<b>Fangxu Yu</b>, Lai Jiang, Haoqiang Kang, Shibo Hao, Lianhui Qin<br />
+<b>Fangxu Yu</b>*, Lai Jiang*, Haoqiang Kang*, Shibo Hao, Lianhui Qin<br />
 arxiv, 2024 <a href="https://arxiv.org/pdf/2406.05673">[pdf] </a><br /> 
 </li>
 <li>Beyond Verbal Cues: Emotional Contagion Graph Network for Causal Emotion Entailment <br />
 <b>Fangxu Yu</b>, Junjie Guo, Zhen Wu, Xinyu Dai<br />
+Under Review<br />
+</li>
+<li>PersuasiveToM: A benchmark for Evaluating Machine Theory of Mind in Persuasive Dialogues <br />
+<b>Fangxu Yu</b>, Lai Jiang, Shenyi Huang, Zhen Wu, Xinyu Dai<br />
 Under Review<br />
 </li>
 </ul>
