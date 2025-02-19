@@ -17,8 +17,6 @@ My research interests lie in machine learning and natural language processing, i
 <li>Neurosymbolic Reasoning with LLMs<br /></li>
 </ul>
 
-<p style="color: red;">Status: I am applying for PhD admission in 2025 Fall in NLP and ML, and I am also open to collaboration. Feel free to drop me an email if there is a good fit!</p>
-
 ## News
 May 2024: One paper is accepted to ICML 2024! We adapt the Energy-based Constrained Decoding with Langevin Dynamics (COLD) to develop the COLD-Attack framework which unifies and automates the search of adversarial LLM attacks under a variety of control requirements such as fluency, stealthiness, sentiment, and left-right-coherence.
 
