@@ -16,7 +16,7 @@ Under Review<br />
 </li>
 <li>PersuasiveToM: A benchmark for Evaluating Machine Theory of Mind in Persuasive Dialogues <br />
 <b>Fangxu Yu</b>, Lai Jiang, Shenyi Huang, Zhen Wu, Xinyu Dai<br />
-Under Review<br />
+arxiv, 2024 <a href="https://arxiv.org/abs/2502.21017">[pdf] </a><br />
 </li>
 </ul>
 
