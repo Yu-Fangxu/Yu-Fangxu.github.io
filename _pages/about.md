@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
  
-I am a final-year master's student from the [School of Artificial Intelligence](https://ai.nju.edu.cn/main.htm) of [Nanjing University](https://ai.nju.edu.cn/main.htm) and serve as a member of the [Natural Language Processing Group](http://nlp.nju.edu.cn/homepage/index.html), advised by [Prof. Xinyu Dai](https://ai.nju.edu.cn/daixinyu/index.htm) and [Prof. Zhen Wu](https://wuzhen247.github.io/). Previously, I obtained a B.S. degree in the School of Computer Science and Technology at [Xidian University](https://en.xidian.edu.cn/). You can find my CV here: [Yu Fangxu's Curriculum Vitae](../assets/CV.pdf)
+
+I am an incoming Ph.D. student in Computer Science at the University of Maryland, advised by [Prof. Yaodong Yu](https://yaodongyu.github.io/) and [Prof. Tianyi Zhou](https://tianyizhou.github.io/). Currently, I am a third-year master's student from the [School of Artificial Intelligence](https://ai.nju.edu.cn/main.htm) of [Nanjing University](https://ai.nju.edu.cn/main.htm), advised by [Prof. Xinyu Dai](https://ai.nju.edu.cn/daixinyu/index.htm) and [Prof. Zhen Wu](https://wuzhen247.github.io/). Previously, I earned my bachelor's degree in Computer Science at [Xidian University](https://en.xidian.edu.cn/). You can find my CV here: [Yu Fangxu's Curriculum Vitae](../assets/CV.pdf)
 
 My research interests lie in machine learning and natural language processing, including
 <ul>
