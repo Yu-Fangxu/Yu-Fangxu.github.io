@@ -19,7 +19,9 @@ My research interests lie in machine learning and natural language processing, i
 </ul>
 
 ## News
-May 2024: One paper is accepted to ICML 2024! We adapt the Energy-based Constrained Decoding with Langevin Dynamics (COLD) to develop the COLD-Attack framework which unifies and automates the search of adversarial LLM attacks under a variety of control requirements such as fluency, stealthiness, sentiment, and left-right-coherence.
+May 2025: One paper is accepted to ICML 2025! We adapt Generative Flow Networks (GFlowNets) to LLM multi-step reasoning, which aims to improve the capability of LLMs to find multiple solutions for each problem. 
+
+May 2024: One paper is accepted to ICML 2024! We adapt the Energy-based Constrained Decoding with Langevin Dynamics (COLD) to develop the COLD-Attack framework, which unifies and automates the search of adversarial LLM attacks under a variety of control requirements such as fluency, stealthiness, sentiment, and left-right-coherence.
 
 March 2024: One paper is accepted to Findings of NAACL 2024! We propose a novel contrastive learning framework to better distinguish similar emotions in Emotion Recognition in Conversation.
 
