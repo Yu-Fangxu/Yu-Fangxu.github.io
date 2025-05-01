@@ -6,10 +6,6 @@ author_profile: true
 ---
 ## Preprint
 <ul>
-<li>Flow of Reasoning: Training LLMs for Divergent Problem Solving with Minimal Examples <br />
-<b>Fangxu Yu</b>*, Lai Jiang*, Haoqiang Kang*, Shibo Hao, Lianhui Qin<br />
-arxiv, 2024 <a href="https://arxiv.org/pdf/2406.05673">[pdf] </a><br /> 
-</li>
 <li>Beyond Verbal Cues: Emotional Contagion Graph Network for Causal Emotion Entailment <br />
 <b>Fangxu Yu</b>, Junjie Guo, Zhen Wu, Xinyu Dai<br />
 Under Review<br />
@@ -22,6 +18,12 @@ arxiv, 2024 <a href="https://arxiv.org/abs/2502.21017">[pdf] </a><br />
 
 ## Conference
 <ul>
+
+<li>Flow of Reasoning: Training LLMs for Divergent Problem Solving with Minimal Examples <br />
+<b>Fangxu Yu</b>*, Lai Jiang*, Haoqiang Kang*, Shibo Hao, Lianhui Qin<br />
+ICML, 2025 <a href="https://arxiv.org/pdf/2406.05673">[pdf] </a><br /> 
+</li>
+
 <li>COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability <br />
 Xingang Guo*, <b>Fangxu Yu</b>*, Huan Zhang, Lianhui Qin, Bin Hu<br />
 ICML, 2024 <a href="https://arxiv.org/pdf/2402.08679">[pdf]</a><br />
