@@ -11,12 +11,6 @@ redirect_from:
 
 I am an incoming Ph.D. student in Computer Science at the [University of Maryland, College Park](https://umd.edu/), advised by [Prof. Yaodong Yu](https://yaodongyu.github.io/) and [Prof. Tianyi Zhou](https://tianyizhou.github.io/). Currently, I am a third-year master's student at [Nanjing University](https://www.nju.edu.cn/en/), advised by [Prof. Xinyu Dai](https://ai.nju.edu.cn/daixinyu/index.htm) and [Prof. Zhen Wu](https://wuzhen247.github.io/). Previously, I earned my bachelor's degree in Computer Science at [Xidian University](https://en.xidian.edu.cn/). You can find my CV here: [Yu Fangxu's Curriculum Vitae](../assets/CV.pdf)
 
-My research interests lie in machine learning and natural language processing, including
-<ul>
-<li>LLM Reasoning and Planning<br /></li>
-<li>Probabilistic Machine Learning<br /></li>
-<li>Neurosymbolic Reasoning with LLMs<br /></li>
-</ul>
 
 ## News
 May 2025: One paper is accepted to ICML 2025! We adapt Generative Flow Networks (GFlowNets) to LLM multi-step reasoning, which aims to improve the capability of LLMs to find multiple solutions for each problem. 
