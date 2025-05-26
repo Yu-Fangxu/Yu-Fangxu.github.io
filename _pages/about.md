@@ -22,5 +22,3 @@ March 2024: One paper is accepted to Findings of NAACL 2024! We propose a novel 
 Sep 2021: I'm admitted to study for an M.Sc. degree in the School of Artificial Intelligence at Nanjing University without an entrance examination.
 
 July 2021: Awarded as Excellent Camper by the Institute of Automation, Chinese Academy of Sciences
-
-June 2021: one paper is accepted to Signal Processing. The work proposes an unsupervised bidirectional deep probabilistic model for Radar Target Recognition.
