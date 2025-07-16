@@ -31,7 +31,7 @@ Internship
 <li> Research Intern at Xidian University, January 2021 - April 2021 <br />
 -- Research topics: Video Super-Resolution <br />
 -- Advisor: <a href="https://sites.google.com/site/fanhua217/">Prof. Fanhua Shang</a><br /></li>
-  <li> Research Intern at the University of California, San Diego, September 2023 - Present <br />
+  <li> Research Intern at the University of California, San Diego, September 2023 - June 2025 <br />
 -- Research topics: LLM reasoning <br />
 -- Advisor: <a href="https://lianhui.ucsd.edu/index.html">Prof. Lianhui Qin</a><br /></li>
 </ul>
