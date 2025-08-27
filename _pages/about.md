@@ -13,6 +13,8 @@ I am an incoming Ph.D. student in Computer Science at the [University of Marylan
 
 
 ## News
+May 2025: One paper is accepted to Findings of ACL 2025! We propose an emotional contagion graph network inspired by the emotional contagion process in social interaction, which aims to improve emotion cause recognition by leveraging non-verbal information.
+
 May 2025: One paper is accepted to ICML 2025! We adapt Generative Flow Networks (GFlowNets) to LLM multi-step reasoning, which aims to improve the capability of LLMs to find multiple solutions for each problem. 
 
 May 2024: One paper is accepted to ICML 2024! We adapt the Energy-based Constrained Decoding with Langevin Dynamics (COLD) to develop the COLD-Attack framework, which unifies and automates the search of adversarial LLM attacks under a variety of control requirements such as fluency, stealthiness, sentiment, and left-right-coherence.
