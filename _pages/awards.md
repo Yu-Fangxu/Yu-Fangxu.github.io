@@ -7,6 +7,6 @@ author_profile: true
 
 <ul>
 <li> Xiaomi Scholarship, 2024. <br /></li>
-<li> First Prize of Excellent Student Scholarship of XDU, 2020 (top 5%). <br /></li>
+<li> Outstanding Master's Thesis Award, 2025 <br /></li>
 </ul>
 
