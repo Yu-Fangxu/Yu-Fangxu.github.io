@@ -10,6 +10,13 @@ author_profile: true
 <b>Fangxu Yu</b>, Lai Jiang, Shenyi Huang, Zhen Wu, Xinyu Dai<br />
 arxiv, 2024 <a href="https://arxiv.org/abs/2502.21017">[pdf] </a><br />
 </li>
+
+<li>TS-Reasoner: Aligning Time Series Foundation Models with LLM Reasoning <br />
+<b>Fangxu Yu</b>, Hongyu Zhao, Tianyi Zhou<br />
+arxiv, 2025 <a href="https://arxiv.org/abs/2510.03519">[pdf] </a><br />
+</li>
+
+
 </ul>
 
 ## Conference
