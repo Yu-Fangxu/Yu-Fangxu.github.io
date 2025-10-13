@@ -9,7 +9,7 @@ redirect_from:
 ---
  
 
-I am a 1st year Ph.D. student in Computer Science at the [University of Maryland, College Park](https://umd.edu/), advised by [Prof. Yaodong Yu](https://yaodongyu.github.io/) and [Prof. Tianyi Zhou](https://tianyizhou.github.io/). Previously, I earned my master's degree in Computer Science at [Nanjing University](https://www.nju.edu.cn/en/) and bachelor's degree in Computer Science at [Xidian University](https://en.xidian.edu.cn/). You can find my CV here: [Yu Fangxu's Curriculum Vitae](../assets/CV.pdf)
+I am a first year Ph.D. student in Computer Science at the [University of Maryland, College Park](https://umd.edu/), advised by [Prof. Yaodong Yu](https://yaodongyu.github.io/) and [Prof. Tianyi Zhou](https://tianyizhou.github.io/). Previously, I earned my master's degree in Computer Science at [Nanjing University](https://www.nju.edu.cn/en/) and bachelor's degree in Computer Science at [Xidian University](https://en.xidian.edu.cn/). You can find my CV here: [Yu Fangxu's Curriculum Vitae](../assets/CV.pdf)
 
 
 ## News
