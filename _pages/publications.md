@@ -6,6 +6,12 @@ author_profile: true
 ---
 ## Preprint
 <ul>
+
+<li>ArcMemo: Abstract Reasoning Composition with Lifelong LLM Memory <br />
+Matthew Ho, Chen Si, Zhaoxiang Feng, <b>Fangxu Yu</b>, Yichi Yang, Zhijian Liu, Zhiting Hu, Lianhui Qin<br />
+arxiv, 2025 <a href="https://arxiv.org/abs/2509.04439">[pdf] </a><br />
+</li>
+  
 <li>PersuasiveToM: A benchmark for Evaluating Machine Theory of Mind in Persuasive Dialogues <br />
 <b>Fangxu Yu</b>, Lai Jiang, Shenyi Huang, Zhen Wu, Xinyu Dai<br />
 arxiv, 2024 <a href="https://arxiv.org/abs/2502.21017">[pdf] </a><br />
