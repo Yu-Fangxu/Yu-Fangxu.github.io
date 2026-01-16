@@ -7,6 +7,11 @@ author_profile: true
 ## Preprint
 <ul>
 
+<li>ArrowGEV: Grounding Events in Video via Learning the Arrow of Time<br />
+<b>Fangxu Yu</b>, Ziyao Lu, Liqiang Niu, Fandong Meng, Jie Zhou<br />
+arxiv, 2025 <a href="https://arxiv.org/abs/2601.06559v1">[pdf] </a><br />
+</li>
+
 <li>ArcMemo: Abstract Reasoning Composition with Lifelong LLM Memory <br />
 Matthew Ho, Chen Si, Zhaoxiang Feng, <b>Fangxu Yu</b>, Yichi Yang, Zhijian Liu, Zhiting Hu, Lianhui Qin<br />
 arxiv, 2025 <a href="https://arxiv.org/abs/2509.04439">[pdf] </a><br />
