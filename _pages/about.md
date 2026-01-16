@@ -19,7 +19,7 @@ My recent research topics include:
 
 (3) Agent: [ArcMemo](https://arxiv.org/abs/2509.04439)
 
-(2) Emotional/Psychological Dialogue: [EACL](https://arxiv.org/abs/2403.20289), [ECGN](https://aclanthology.org/2025.findings-acl.88/), [PersuasiveToM](https://arxiv.org/abs/2502.21017)
+(4) Emotional/Psychological Dialogue: [EACL](https://arxiv.org/abs/2403.20289), [ECGN](https://aclanthology.org/2025.findings-acl.88/), [PersuasiveToM](https://arxiv.org/abs/2502.21017)
 
 
 ## News
