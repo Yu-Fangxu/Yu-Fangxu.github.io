@@ -13,7 +13,7 @@ I am a first year Ph.D. student in Computer Science at the [University of Maryla
 
 My recent research topics include:
 
-(1) LLM/MLLM Reasoning: [Flow of Reasoning](https://arxiv.org/abs/2406.05673), [TS-Reasoner](https://arxiv.org/abs/2510.03519), ArrowVEG, TSRBench
+(1) LLM/MLLM Reasoning: [Flow of Reasoning](https://arxiv.org/abs/2406.05673), [TS-Reasoner](https://arxiv.org/abs/2510.03519), [ArrowGEV](https://arxiv.org/abs/2601.06559v1), TSRBench
 
 (2) Probabilistic Inference for NLP: [Flow of Reasoning](https://arxiv.org/abs/2406.05673), [COLD-Attack](https://arxiv.org/abs/2402.08679)
 
