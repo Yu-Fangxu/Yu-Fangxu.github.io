@@ -17,6 +17,11 @@ arxiv, 2026 <a href="https://arxiv.org/abs/2601.18744">[pdf] </a><br />
 arxiv, 2026 <a href="https://arxiv.org/abs/2601.06559">[pdf] </a><br />
 </li>
 
+<li>TS-Reasoner: Aligning Time Series Foundation Models with LLM Reasoning <br />
+<b>Fangxu Yu</b>, Hongyu Zhao, Tianyi Zhou<br />
+arxiv, 2025 <a href="https://arxiv.org/abs/2510.03519">[pdf] </a><br />
+</li>
+
 <li>ArcMemo: Abstract Reasoning Composition with Lifelong LLM Memory <br />
 Matthew Ho, Chen Si, Zhaoxiang Feng, <b>Fangxu Yu</b>, Yichi Yang, Zhijian Liu, Zhiting Hu, Lianhui Qin<br />
 arxiv, 2025 <a href="https://arxiv.org/abs/2509.04439">[pdf] </a><br />
@@ -24,14 +29,8 @@ arxiv, 2025 <a href="https://arxiv.org/abs/2509.04439">[pdf] </a><br />
   
 <li>PersuasiveToM: A benchmark for Evaluating Machine Theory of Mind in Persuasive Dialogues <br />
 <b>Fangxu Yu</b>, Lai Jiang, Shenyi Huang, Zhen Wu, Xinyu Dai<br />
-arxiv, 2024 <a href="https://arxiv.org/abs/2502.21017">[pdf] </a><br />
+arxiv, 2025 <a href="https://arxiv.org/abs/2502.21017">[pdf] </a><br />
 </li>
-
-<li>TS-Reasoner: Aligning Time Series Foundation Models with LLM Reasoning <br />
-<b>Fangxu Yu</b>, Hongyu Zhao, Tianyi Zhou<br />
-arxiv, 2025 <a href="https://arxiv.org/abs/2510.03519">[pdf] </a><br />
-</li>
-
 
 </ul>
 
