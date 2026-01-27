@@ -7,9 +7,14 @@ author_profile: true
 ## Preprint
 <ul>
 
+<li>TSRBench: A Comprehensive Multi-task Multi-modal Time Series Reasoning Benchmark for Generalist Models<br />
+<b>Fangxu Yu</b>, Xingang Guo, Lingzhi Yuan, Haoqiang Kang, Hongyu Zhao, Lianhui Qin, Furong Huang, Bin Hu, Tianyi Zhou<br />
+arxiv, 2026 <a href="https://arxiv.org/abs/2601.18744">[pdf] </a><br />
+</li>
+
 <li>ArrowGEV: Grounding Events in Video via Learning the Arrow of Time<br />
 <b>Fangxu Yu</b>, Ziyao Lu, Liqiang Niu, Fandong Meng, Jie Zhou<br />
-arxiv, 2025 <a href="https://arxiv.org/abs/2601.06559v1">[pdf] </a><br />
+arxiv, 2026 <a href="https://arxiv.org/abs/2601.06559">[pdf] </a><br />
 </li>
 
 <li>ArcMemo: Abstract Reasoning Composition with Lifelong LLM Memory <br />
