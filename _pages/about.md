@@ -17,9 +17,11 @@ My recent research topics include:
 
 (2) Probabilistic Inference for NLP: [Flow of Reasoning](https://arxiv.org/abs/2406.05673), [COLD-Attack](https://arxiv.org/abs/2402.08679)
 
-(3) Agent: [ArcMemo](https://arxiv.org/abs/2509.04439)
+(3) Emotion / Social Reasoning: [EACL](https://arxiv.org/abs/2403.20289), [ECGN](https://aclanthology.org/2025.findings-acl.88/), [PersuasiveToM](https://arxiv.org/abs/2502.21017)
 
-(4) Emotional/Psychological Dialogue: [EACL](https://arxiv.org/abs/2403.20289), [ECGN](https://aclanthology.org/2025.findings-acl.88/), [PersuasiveToM](https://arxiv.org/abs/2502.21017)
+(4) Agent: [ArcMemo](https://arxiv.org/abs/2509.04439)
+
+
 
 
 ## News
