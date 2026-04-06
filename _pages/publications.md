@@ -35,7 +35,7 @@ arxiv, 2025 <a href="https://arxiv.org/abs/2502.21017">[pdf] </a><br />
 
 <li>ArrowGEV: Grounding Events in Video via Learning the Arrow of Time<br />
 <b>Fangxu Yu</b>, Ziyao Lu, Liqiang Niu, Fandong Meng, Jie Zhou<br />
-Findings of ACL 2026 <a href="https://arxiv.org/abs/2601.06559">[pdf] </a><br />
+Findings of ACL, 2026 <a href="https://arxiv.org/abs/2601.06559">[pdf] </a><br />
 </li>
 
 <li>Beyond Verbal Cues: Emotional Contagion Graph Network for Causal Emotion Entailment <br />
