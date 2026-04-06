@@ -12,11 +12,6 @@ author_profile: true
 arxiv, 2026 <a href="https://arxiv.org/abs/2601.18744">[pdf] </a><br />
 </li>
 
-<li>ArrowGEV: Grounding Events in Video via Learning the Arrow of Time<br />
-<b>Fangxu Yu</b>, Ziyao Lu, Liqiang Niu, Fandong Meng, Jie Zhou<br />
-arxiv, 2026 <a href="https://arxiv.org/abs/2601.06559">[pdf] </a><br />
-</li>
-
 <li>TS-Reasoner: Aligning Time Series Foundation Models with LLM Reasoning <br />
 <b>Fangxu Yu</b>, Hongyu Zhao, Tianyi Zhou<br />
 arxiv, 2025 <a href="https://arxiv.org/abs/2510.03519">[pdf] </a><br />
@@ -37,9 +32,15 @@ arxiv, 2025 <a href="https://arxiv.org/abs/2502.21017">[pdf] </a><br />
 
 ## Conference
 <ul>
+
+<li>ArrowGEV: Grounding Events in Video via Learning the Arrow of Time<br />
+<b>Fangxu Yu</b>, Ziyao Lu, Liqiang Niu, Fandong Meng, Jie Zhou<br />
+Findings of ACL 2026 <a href="https://arxiv.org/abs/2601.06559">[pdf] </a><br />
+</li>
+
 <li>Beyond Verbal Cues: Emotional Contagion Graph Network for Causal Emotion Entailment <br />
 <b>Fangxu Yu</b>, Junjie Guo, Zhen Wu, Xinyu Dai<br />
-Findings of ACL, 2025<br />
+Findings of ACL, 2025 <a href="https://aclanthology.org/2025.findings-acl.88/">[pdf] </a><br />
 </li>
   
 <li>Flow of Reasoning: Training LLMs for Divergent Problem Solving with Minimal Examples <br />
