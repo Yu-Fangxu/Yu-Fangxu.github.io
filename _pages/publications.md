@@ -43,7 +43,7 @@ Findings of ACL, 2026 <a href="https://arxiv.org/abs/2601.06559">[pdf] </a><br /
 Findings of ACL, 2025 <a href="https://aclanthology.org/2025.findings-acl.88/">[pdf] </a><br />
 </li>
   
-<li>Flow of Reasoning: Training LLMs for Divergent Problem Solving with Minimal Examples <br />
+<li>Flow of Reasoning: Training LLMs for Divergent Reasoning with Minimal Examples <br />
 <b>Fangxu Yu</b>*, Lai Jiang*, Haoqiang Kang*, Shibo Hao, Lianhui Qin<br />
 ICML, 2025 <a href="https://arxiv.org/pdf/2406.05673">[pdf] </a><br /> 
 </li>
