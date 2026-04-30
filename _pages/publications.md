@@ -30,7 +30,7 @@ arxiv, 2025 <a href="https://arxiv.org/abs/2502.21017">[pdf] </a><br />
 
 <li>TSRBench: A Comprehensive Multi-task Multi-modal Time Series Reasoning Benchmark for Generalist Models<br />
 <b>Fangxu Yu</b>, Xingang Guo, Lingzhi Yuan, Haoqiang Kang, Hongyu Zhao, Lianhui Qin, Furong Huang, Bin Hu, Tianyi Zhou<br />
-ICML 2026 <a href="https://arxiv.org/abs/2601.18744">[pdf] </a><br />
+ICML, 2026 <a href="https://arxiv.org/abs/2601.18744">[pdf] </a><br />
 </li>
 
 <li>ArrowGEV: Grounding Events in Video via Learning the Arrow of Time<br />
