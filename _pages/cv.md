@@ -31,6 +31,10 @@ Xidian University, Aug. 2018 - Jun. 2022 <br />
 Internship
 =====
 <ul>
+<li> Research Intern at Microsoft Research, June 2026 - Now <br />
+-- Research topics: On-policy distillation, Multimodal post-training and reasoning<br /></li>
+-- Advisor: <a href="https://zinanlin.me/">Zinan Lin</a>, <a href="https://xiaodongagi.github.io/">Xiaodong Liu</a>, <a href="https://weijia-xu.github.io/">Weijia Xu</a><br />
+</li>
 <li> Research Intern at WeChat AI, Tencent Inc., June 2025 - August 2025 <br />
 -- Research topics: Video understanding and reasoning <br /></li>
 <li> Research Intern at the University of California, San Diego, September 2023 - June 2025 <br />
