@@ -33,19 +33,20 @@ Internship
 <ul>
 <li> Research Intern at Microsoft Research, June 2026 - Now <br />
 -- Research topics: On-policy distillation, Multimodal post-training and reasoning<br /></li>
--- Advisor: <a href="https://zinanlin.me/">Zinan Lin</a>, <a href="https://xiaodongagi.github.io/">Xiaodong Liu</a>, <a href="https://weijia-xu.github.io/">Weijia Xu</a><br />
+-- Mentor: <a href="https://zinanlin.me/">Zinan Lin</a>, <a href="https://xiaodongagi.github.io/">Xiaodong Liu</a>, <a href="https://weijia-xu.github.io/">Weijia Xu</a><br />
 </li>
 <li> Research Intern at WeChat AI, Tencent Inc., June 2025 - August 2025 <br />
 -- Research topics: Video understanding and reasoning <br /></li>
+-- Mentor: <a href="https://scholar.google.com/citations?user=9Qk5MEAAAAAJ&hl=zh-CN">Liqiang Niu</a>, <a href="https://scholar.google.com/citations?user=Gy4cwWgAAAAJ&hl=en">Ziyao Lu</a><br />
 <li> Research Intern at the University of California, San Diego, September 2023 - June 2025 <br />
 -- Research topics: LLM reasoning <br />
 -- Advisor: <a href="https://lianhui.ucsd.edu/index.html">Prof. Lianhui Qin</a><br /></li>
-<li> Research Intern at Xidian University, January 2021 - April 2021 <br />
+<!-- <li> Research Intern at Xidian University, January 2021 - April 2021 <br />
 -- Research topics: Video Super-Resolution <br />
 -- Advisor: <a href="https://sites.google.com/site/fanhua217/">Prof. Fanhua Shang</a><br /></li>
 <li> Research Intern at Xidian University, June 2020 - June 2022  <br />
 -- Research topics: Probabilistic Topic Model <br />
--- Advisor: <a href="https://web.xidian.edu.cn/bchen/en/index.html">Prof. Bo Chen</a><br /></li>
+-- Advisor: <a href="https://web.xidian.edu.cn/bchen/en/index.html">Prof. Bo Chen</a><br /></li> -->
 </ul>
 
 Service
