@@ -13,7 +13,7 @@ I am a first year Ph.D. student in Computer Science at the [University of Maryla
 
 My recent research topics include:
 
-(1) LLM/MLLM Reasoning: [Flow of Reasoning](https://arxiv.org/abs/2406.05673), [TS-Reasoner](https://arxiv.org/abs/2510.03519), [ArrowGEV](https://arxiv.org/abs/2601.06559v1), [TSRBench](https://arxiv.org/abs/2601.18744)
+(1) LLM/MLLM Reasoning: [Flow of Reasoning](https://arxiv.org/abs/2406.05673), [TS-Reasoner](https://arxiv.org/abs/2510.03519), [ArrowGEV](https://arxiv.org/abs/2601.06559v1), [TSRBench](https://arxiv.org/abs/2601.18744), [TSRouter]()
 
 (2) Probabilistic Inference for NLP: [Flow of Reasoning](https://arxiv.org/abs/2406.05673), [COLD-Attack](https://arxiv.org/abs/2402.08679)
 
@@ -25,6 +25,8 @@ My recent research topics include:
 
 
 ## News
+July 2026: One paper is accepted to COLM 2026! We propose TSRouter, a lightweight routing approach that selects the most appropriate modality to represent time series and model (e.g., LLMs, VLMs) to solve the reasoning problem.
+
 April 2026: One paper is accepted to ICML 2026! We propose TSRBench, a large-scale, comprehensive benchmark designed to stress-test the time series understanding and reasoning capabilities of generalist models (LLMs, VLMs, and TSLLMs).
 
 April 2026: One paper is accepted to Findings of ACL 2026! We quantitatively demonstrate the limitations of current VLMs in understanding temporal directionality, and propose an RL-based approach to simultaneously enhance both temporal video grounding and directional comprehension.
