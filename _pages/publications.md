@@ -8,7 +8,7 @@ author_profile: true
 <ul>
 
 <li>Weak-to-Strong On-Policy Distillation <br />
-<b>Fangxu Yu</b>, Zinan Lin, Xiaodong Liu, Weijia Xu, Michael Xu, Jianfeng Gao<br />
+<b>Fangxu Yu</b>, Zinan Lin, Xiaodong Liu, Weijia Xu, Michael Xu, Tianyi Zhou, Jianfeng Gao<br />
 arxiv, 2026 <a href="https://arxiv.org/abs/2607.26246">[pdf] </a><br />
 </li>
 
