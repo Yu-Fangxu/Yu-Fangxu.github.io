@@ -9,36 +9,57 @@ redirect_from:
 ---
  
 
-I am a first year Ph.D. student in Computer Science at the [University of Maryland, College Park](https://umd.edu/), advised by [Prof. Yaodong Yu](https://yaodongyu.github.io/) and [Prof. Tianyi Zhou](https://tianyizhou.github.io/). Previously, I earned my master's degree in Computer Science at [Nanjing University](https://www.nju.edu.cn/en/) and bachelor's degree in Computer Science at [Xidian University](https://en.xidian.edu.cn/). You can find my CV here: [Yu Fangxu's Curriculum Vitae](../assets/CV.pdf).
+I am a first-year Ph.D. student in Computer Science at the [University of Maryland, College Park](https://umd.edu/), advised by [Prof. Yaodong Yu](https://yaodongyu.github.io/) and [Prof. Tianyi Zhou](https://tianyizhou.github.io/). Previously, I earned my master's degree in Computer Science at [Nanjing University](https://www.nju.edu.cn/en/) and my bachelor's degree in Computer Science at [Xidian University](https://en.xidian.edu.cn/). You can find my CV here: [Yu Fangxu's Curriculum Vitae](../assets/CV.pdf).
 
 My recent research topics include:
 
-(1) LLM/MLLM Reasoning: [Flow of Reasoning](https://arxiv.org/abs/2406.05673), [TS-Reasoner](https://arxiv.org/abs/2510.03519), [ArrowGEV](https://arxiv.org/abs/2601.06559v1), [TSRBench](https://arxiv.org/abs/2601.18744), [TSRouter](https://arxiv.org/abs/2607.08940)
+(1) LLM Reasoning and Post-Training:
 
-(2) Probabilistic Inference for NLP: [Flow of Reasoning](https://arxiv.org/abs/2406.05673), [COLD-Attack](https://arxiv.org/abs/2402.08679)
+- [Flow of Reasoning](https://arxiv.org/abs/2406.05673) — improving reasoning diversity in problem-solving. *ICML 2025*
+- [W2S-OPD](https://arxiv.org/abs/2607.26246) — distilling capability from weak LLMs to stronger LLMs. *Preprint*
 
-(3) Emotion & Social Reasoning: [EACL](https://arxiv.org/abs/2403.20289), [ECGN](https://aclanthology.org/2025.findings-acl.88/), [PersuasiveToM](https://arxiv.org/abs/2502.21017)
+(2) Multimodal LLM Reasoning and Post-Training: 
 
-(4) Agent: [ArcMemo](https://arxiv.org/abs/2509.04439)
+- [TS-Reasoner](https://arxiv.org/abs/2510.03519) — a time series LLM architecture for reasoning. *TMLR 2026*
+- [TSRBench](https://arxiv.org/abs/2601.18744) — benchmarking LLMs/VLMs on time series reasoning. *ICML 2026*
+- [TSRouter](https://arxiv.org/abs/2607.08940) — selecting the optimal modality–model pair for time series reasoning. *COLM 2026*
+- [ArrowGEV](https://arxiv.org/abs/2601.06559v1) — learning temporal directionality to improve temporal video grounding. *Findings of ACL 2026*
+- [AudioRubrics](https://arxiv.org/abs/2601.06559v1) — evolving rubrics with RL for audio reasoning. *Preprint*
+
+(3) Emotion & Social Reasoning: 
+
+- [EACL](https://arxiv.org/abs/2403.20289) — contrastive learning for emotion recognition. *Findings of NAACL 2024*
+- [ECGN](https://aclanthology.org/2025.findings-acl.88/) — graph learning for emotion cause detection in conversation. *Findings of ACL 2025*
+- [PersuasiveToM](https://arxiv.org/abs/2502.21017) — benchmarking LLMs on theory of mind in persuasive dialogue. *Preprint*
+
+(4) AI Safety: 
+
+- [COLD-Attack](https://arxiv.org/abs/2402.08679) — prompt optimization for controllable jailbreaking prompts. *ICML 2024*
+
+(5) LLM Agent:
+
+- [ArcMemo](https://arxiv.org/abs/2509.04439) — lifelong concept-level memory that lets agents compose abstractions learned from past problems. *Preprint*
+- [FlowBank](https://arxiv.org/abs/2606.11290) — banking successful reasoning trajectories as reusable experience for downstream agent tasks. *Preprint*
 
 
 
 
 ## News
-July 2026: One paper is accepted to COLM 2026! We propose TSRouter, a lightweight routing approach that selects the most appropriate modality to represent time series and model (e.g., LLMs, VLMs) to solve the reasoning problem.
 
-April 2026: One paper is accepted to ICML 2026! We propose TSRBench, a large-scale, comprehensive benchmark designed to stress-test the time series understanding and reasoning capabilities of generalist models (LLMs, VLMs, and TSLLMs).
+**July 2026**: One paper is accepted to TMLR! We propose TS-Reasoner, a new time series LLM for reasoning by aligning the Time Series Foundation Model with an LLM. In addition, we introduce a simple time series captioning approach for large-scale alignment data construction.
 
-April 2026: One paper is accepted to Findings of ACL 2026! We quantitatively demonstrate the limitations of current VLMs in understanding temporal directionality, and propose an RL-based approach to simultaneously enhance both temporal video grounding and directional comprehension.
+**July 2026**: One paper is accepted to COLM 2026! We propose TSRouter, a lightweight routing approach that selects the most appropriate modality to represent time series and model (e.g., LLMs, VLMs) to solve the reasoning problem.
 
-May 2025: One paper is accepted to Findings of ACL 2025! We propose an emotional contagion graph network (ECGN) inspired by the emotional contagion process in social interaction, which aims to improve emotion cause recognition by leveraging non-verbal information.
+**April 2026**: One paper is accepted to ICML 2026! We propose TSRBench, a large-scale, comprehensive benchmark designed to stress-test the time series understanding and reasoning capabilities of generalist models (LLMs, VLMs, and TSLLMs).
 
-May 2025: One paper is accepted to ICML 2025! We adapt Generative Flow Networks (GFlowNets) to LLM multi-step reasoning, which aims to improve the capability of LLMs to find multiple solutions for each problem. 
+**April 2026**: One paper is accepted to Findings of ACL 2026! We quantitatively demonstrate the limitations of current VLMs in understanding temporal directionality, and propose an RL-based approach to simultaneously enhance both temporal video grounding and directional comprehension.
 
-May 2024: One paper is accepted to ICML 2024! We adapt the Energy-based Constrained Decoding with Langevin Dynamics (COLD) to develop the COLD-Attack framework, which unifies and automates the search of adversarial LLM attacks under a variety of control requirements such as fluency, stealthiness, sentiment, and left-right coherence.
+**May 2025**: One paper is accepted to Findings of ACL 2025! We propose an emotional contagion graph network (ECGN) inspired by the emotional contagion process in social interaction, which aims to improve emotion cause recognition by leveraging non-verbal information.
 
-March 2024: One paper is accepted to Findings of NAACL 2024! We propose a novel contrastive learning framework to better distinguish similar emotions in Emotion Recognition in Conversation.
+**May 2025**: One paper is accepted to ICML 2025! We adapt Generative Flow Networks (GFlowNets) to LLM multi-step reasoning, which aims to improve the capability of LLMs to find multiple solutions for each problem. 
 
-Sep 2021: I'm admitted to study for an M.Sc. degree in the School of Artificial Intelligence at Nanjing University without an entrance examination.
+**May 2024**: One paper is accepted to ICML 2024! We adapt the Energy-based Constrained Decoding with Langevin Dynamics (COLD) to develop the COLD-Attack framework, which unifies and automates the search of adversarial LLM attacks under a variety of control requirements such as fluency, stealthiness, sentiment, and left-right coherence.
 
-July 2021: Awarded as Excellent Camper by the Institute of Automation, Chinese Academy of Sciences
+**March 2024**: One paper is accepted to Findings of NAACL 2024! We propose a novel contrastive learning framework to better distinguish similar emotions in Emotion Recognition in Conversation.
+
+**Sep 2021**: I'm admitted to study for an M.Sc. degree in the School of Artificial Intelligence at Nanjing University without an entrance examination.
