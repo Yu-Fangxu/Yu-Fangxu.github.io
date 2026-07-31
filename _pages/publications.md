@@ -12,11 +12,6 @@ author_profile: true
 arxiv, 2026 <a href="https://arxiv.org/abs/2607.26246">[pdf] </a><br />
 </li>
 
-<li>TS-Reasoner: Aligning Time Series Foundation Models with LLM Reasoning <br />
-<b>Fangxu Yu</b>, Hongyu Zhao, Tianyi Zhou<br />
-arxiv, 2025 <a href="https://arxiv.org/abs/2510.03519">[pdf] </a><br />
-</li>
-
 <li>ArcMemo: Abstract Reasoning Composition with Lifelong LLM Memory <br />
 Matthew Ho, Chen Si, Zhaoxiang Feng, <b>Fangxu Yu</b>, Yichi Yang, Zhijian Liu, Zhiting Hu, Lianhui Qin<br />
 <span style="color: #ff6b6b">ARC Prize 2025 Paper Track Runner Up</span><br />
@@ -32,6 +27,12 @@ arxiv, 2025 <a href="https://arxiv.org/abs/2502.21017">[pdf] </a><br />
 
 ## Conference
 <ul>
+
+<li>TS-Reasoner: Aligning Time Series Foundation Models with LLM Reasoning <br />
+<b>Fangxu Yu</b>, Hongyu Zhao, Tianyi Zhou<br />
+TMLR, 2026 <a href="https://arxiv.org/abs/2510.03519">[pdf] </a><br />
+</li>
+
 
 <li>TSRouter: Dynamic Modality-Model Selection for Time Series Reasoning<br />
 <b>Fangxu Yu</b>, Tao Feng, Dehai Min, Lu Cheng, Ge Liu, Tianyi Zhou<br />
