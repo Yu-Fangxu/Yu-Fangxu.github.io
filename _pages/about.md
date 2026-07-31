@@ -14,32 +14,25 @@ I am a first-year Ph.D. student in Computer Science at the [University of Maryla
 My recent research topics include:
 
 (1) LLM Reasoning and Post-Training:
-
-- [Flow of Reasoning](https://arxiv.org/abs/2406.05673) — improving reasoning diversity in problem-solving. *ICML 2025*
-- [W2S-OPD](https://arxiv.org/abs/2607.26246) — distilling capability from weak LLMs to stronger LLMs. *Preprint*
+[Flow of Reasoning](https://arxiv.org/abs/2406.05673), [W2S-OPD](https://arxiv.org/abs/2607.26246)
 
 (2) Multimodal LLM Reasoning and Post-Training: 
-
-- [TS-Reasoner](https://arxiv.org/abs/2510.03519) — a time series LLM architecture for reasoning. *TMLR 2026*
-- [TSRBench](https://arxiv.org/abs/2601.18744) — benchmarking LLMs/VLMs on time series reasoning. *ICML 2026*
-- [TSRouter](https://arxiv.org/abs/2607.08940) — selecting the optimal modality–model pair for time series reasoning. *COLM 2026*
-- [ArrowGEV](https://arxiv.org/abs/2601.06559v1) — learning temporal directionality to improve temporal video grounding. *Findings of ACL 2026*
-- [AudioRubrics](https://arxiv.org/abs/2601.06559v1) — evolving rubrics with RL for audio reasoning. *Preprint*
+[TS-Reasoner](https://arxiv.org/abs/2510.03519),
+[TSRBench](https://arxiv.org/abs/2601.18744),
+[TSRouter](https://arxiv.org/abs/2607.08940),
+[ArrowGEV](https://arxiv.org/abs/2601.06559v1),
+[AudioRubrics](https://arxiv.org/abs/2601.06559v1)
 
 (3) Emotion & Social Reasoning: 
-
-- [EACL](https://arxiv.org/abs/2403.20289) — contrastive learning for emotion recognition. *Findings of NAACL 2024*
-- [ECGN](https://aclanthology.org/2025.findings-acl.88/) — graph learning for emotion cause detection in conversation. *Findings of ACL 2025*
-- [PersuasiveToM](https://arxiv.org/abs/2502.21017) — benchmarking LLMs on theory of mind in persuasive dialogue. *Preprint*
+[EACL](https://arxiv.org/abs/2403.20289),
+[ECGN](https://aclanthology.org/2025.findings-acl.88/),
+[PersuasiveToM](https://arxiv.org/abs/2502.21017)
 
 (4) AI Safety: 
-
-- [COLD-Attack](https://arxiv.org/abs/2402.08679) — prompt optimization for controllable jailbreaking prompts. *ICML 2024*
+[COLD-Attack](https://arxiv.org/abs/2402.08679)
 
 (5) LLM Agent:
-
-- [ArcMemo](https://arxiv.org/abs/2509.04439) — lifelong concept-level memory that lets agents compose abstractions learned from past problems. *Preprint*
-- [FlowBank](https://arxiv.org/abs/2606.11290) — banking successful reasoning trajectories as reusable experience for downstream agent tasks. *Preprint*
+[ArcMemo](https://arxiv.org/abs/2509.04439), [FlowBank](https://arxiv.org/abs/2606.11290)
 
 
 
