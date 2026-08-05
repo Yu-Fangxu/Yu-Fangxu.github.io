@@ -41,7 +41,7 @@ TMLR, 2026 <a href="https://arxiv.org/abs/2510.03519">[pdf] </a><br />
 
 <li>TSRouter: Dynamic Modality-Model Selection for Time Series Reasoning<br />
 <b>Fangxu Yu</b>, Tao Feng, Dehai Min, Lu Cheng, Ge Liu, Tianyi Zhou<br />
-COLM, 2026 <a href="https://arxiv.org/abs/2607.08940v1">[pdf] </a><br />
+COLM, 2026 <a href="https://arxiv.org/abs/2607.08940">[pdf] </a><br />
 </li>
 
 <li>TSRBench: A Comprehensive Multi-task Multi-modal Time Series Reasoning Benchmark for Generalist Models<br />
