@@ -12,6 +12,11 @@ author_profile: true
 arxiv, 2026 <a href="https://arxiv.org/abs/2607.26246">[pdf] </a><br />
 </li>
 
+<li>Reinforcement Learning with Evolving Rubrics as Rewards for Audio Reasoning<br />
+<b>Fangxu Yu</b>, Tao Feng, Dehai Min, Zinan Lin, Weijia Xu, Michael Xu, Philip S. Yu, Ge Liu, Tianyi Zhou<br />
+arxiv, 2026 <a href="https://arxiv.org/abs/2608.02831">[pdf] </a><br />
+</li>
+
 <li>ArcMemo: Abstract Reasoning Composition with Lifelong LLM Memory <br />
 Matthew Ho, Chen Si, Zhaoxiang Feng, <b>Fangxu Yu</b>, Yichi Yang, Zhijian Liu, Zhiting Hu, Lianhui Qin<br />
 <span style="color: #ff6b6b">ARC Prize 2025 Paper Track Runner Up</span><br />
