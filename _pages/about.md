@@ -20,8 +20,8 @@ My recent research topics include:
 [TS-Reasoner](https://arxiv.org/abs/2510.03519),
 [TSRBench](https://arxiv.org/abs/2601.18744),
 [TSRouter](https://arxiv.org/abs/2607.08940),
-[ArrowGEV](https://arxiv.org/abs/2601.06559v1),
-[AudioRubrics](https://arxiv.org/abs/2601.06559v1)
+[ArrowGEV](https://arxiv.org/abs/2601.06559),
+[AudioRubrics](https://arxiv.org/abs/2608.02831)
 
 (3) Emotion & Social Reasoning: 
 [EACL](https://arxiv.org/abs/2403.20289),
