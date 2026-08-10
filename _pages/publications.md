@@ -24,8 +24,7 @@ arxiv, 2026 <a href="https://arxiv.org/abs/2608.02831">[pdf] </a><br />
 
 <li>ArcMemo: Abstract Reasoning Composition with Lifelong LLM Memory <br />
 Matthew Ho, Chen Si, Zhaoxiang Feng, <b>Fangxu Yu</b>, Yichi Yang, Zhijian Liu, Zhiting Hu, Lianhui Qin<br />
-<a href="https://arcprize.org/competitions/2025" style="color: #ff6b6b; text-decoration: none;">ARC Prize 2025 Paper Track Runner Up</a><br />
-arxiv, 2025 <a href="https://arxiv.org/abs/2509.04439">[pdf] </a><br />
+arxiv, 2025 <a href="https://arxiv.org/abs/2509.04439">[pdf] </a> -- <a href="https://arcprize.org/competitions/2025" style="color: #ff6b6b; text-decoration: none;">ARC Prize 2025 Paper Track Runner Up</a><br />
 </li>
   
 <li>PersuasiveToM: A benchmark for Evaluating Machine Theory of Mind in Persuasive Dialogues <br />
