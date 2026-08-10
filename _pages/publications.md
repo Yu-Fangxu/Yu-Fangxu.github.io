@@ -7,7 +7,12 @@ author_profile: true
 ## Preprint
 <ul>
 
-<li>Weak-to-Strong On-Policy Distillation <br />
+<li>LLMRouter: Unified Infrastructure for Developing, Evaluating, and Deploying LLM Routers<br />
+Tao Feng, <b>Fangxu Yu</b>, Haozhen Zhang, Zhongjie Dai, Liangqi Yuan, Zijie Lei, Weizhi Zhang, Kunlun Zhu, Haodong Yue, Keyang Xuan, Ge Liu, Jiaxuan You<br />
+arxiv, 2026 <a href="https://arxiv.org/abs/2608.06867">[pdf] </a><br />
+</li>
+
+<li>Weak-to-Strong On-Policy Distillation<br />
 <b>Fangxu Yu</b>, Zinan Lin, Xiaodong Liu, Weijia Xu, Michael Xu, Tianyi Zhou, Jianfeng Gao<br />
 arxiv, 2026 <a href="https://arxiv.org/abs/2607.26246">[pdf] </a><br />
 </li>
