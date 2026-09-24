@@ -37,6 +37,11 @@ arxiv, 2025 <a href="https://arxiv.org/abs/2502.21017">[pdf] </a><br />
 ## Conference
 <ul>
 
+<li>FlowBank: Query-Adaptive Agentic Workflows Optimization through Precompute-and-Reuse <br />
+Lingzhi Yuan, Chenghao Deng, <b>Fangxu Yu</b>, Souradip Chakraborty, Mohammad Rostami, Furong Huang<br />
+Neurips, 2026 <a href="https://arxiv.org/abs/2606.11290">[pdf] </a><br />
+</li>
+
 <li>TS-Reasoner: Aligning Time Series Foundation Models with LLM Reasoning <br />
 <b>Fangxu Yu</b>, Hongyu Zhao, Tianyi Zhou<br />
 TMLR, 2026 <a href="https://arxiv.org/abs/2510.03519">[pdf] </a><br />
