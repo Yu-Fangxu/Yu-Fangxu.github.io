@@ -32,7 +32,7 @@ My recent research topics include:
 [COLD-Attack](https://arxiv.org/abs/2402.08679)
 
 (5) LLM Agent:
-[ArcMemo](https://arxiv.org/abs/2509.04439), [FlowBank](https://arxiv.org/abs/2606.11290)
+[ArcMemo](https://arxiv.org/abs/2509.04439), [FlowBank](https://arxiv.org/abs/2606.11290), [EpiCompass](https://arxiv.org/abs/2611.25214)
 
 (6) Open-source Library:
 [LLMRouter](https://arxiv.org/abs/2608.06867)
