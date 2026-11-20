@@ -7,6 +7,12 @@ author_profile: true
 ## Preprint
 <ul>
 
+
+<li>Steering Automated Scientific Discovery via Audited Epistemic Exploration<br />
+<b>Fangxu Yu</b>, Tao Feng, Xuying Ning, Haolin Yang, Jiaxuan You, Tianyi Zhou<br />
+arxiv, 2026 <a href="https://arxiv.org/abs/2611.25214">[pdf] </a><br />
+</li>
+
 <li>LLMRouter: Unified Infrastructure for Developing, Evaluating, and Deploying LLM Routers<br />
 Tao Feng*, <b>Fangxu Yu</b>*, Haozhen Zhang*, Zhongjie Dai, Liangqi Yuan, Zijie Lei, Weizhi Zhang, Kunlun Zhu, Haodong Yue, Keyang Xuan, Ge Liu, Jiaxuan You<br />
 arxiv, 2026 <a href="https://arxiv.org/abs/2608.06867">[pdf] </a><br />
