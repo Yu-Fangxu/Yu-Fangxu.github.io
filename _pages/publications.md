@@ -47,12 +47,6 @@ Lingzhi Yuan, Chenghao Deng, <b>Fangxu Yu</b>, Souradip Chakraborty, Mohammad Ro
 NeurIPS, 2026 <a href="https://arxiv.org/abs/2606.11290">[pdf] </a><br />
 </li>
 
-<li>TS-Reasoner: Aligning Time Series Foundation Models with LLM Reasoning <br />
-<b>Fangxu Yu</b>, Hongyu Zhao, Tianyi Zhou<br />
-TMLR, 2026 <a href="https://arxiv.org/abs/2510.03519">[pdf] </a><br />
-</li>
-
-
 <li>TSRouter: Dynamic Modality-Model Selection for Time Series Reasoning<br />
 <b>Fangxu Yu</b>, Tao Feng, Dehai Min, Lu Cheng, Ge Liu, Tianyi Zhou<br />
 COLM, 2026 <a href="https://arxiv.org/abs/2607.08940">[pdf] </a><br />
@@ -91,6 +85,17 @@ Findings of NAACL, 2024 <a href="https://aclanthology.org/2024.findings-naacl.28
 
 ## Journal
 <ul>
+
+<li>EmoRouter: Adaptive Modality Cascading for Multimodal Emotion Recognition<br />
+<b>Fangxu Yu</b>, Hongyu Zhao, Tianyi Zhou<br />
+TMLR, 2026 <a href="https://arxiv.org/abs/2611.28960">[pdf] </a><br />
+</li>
+
+<li>TS-Reasoner: Aligning Time Series Foundation Models with LLM Reasoning <br />
+<b>Fangxu Yu</b>, Lingzhi Yuan, Dehai Min, Tao Feng, Ge Liu, Furong Huang, Tianyi Zhou<br />
+TMLR, 2026 <a href="https://arxiv.org/abs/2510.03519">[pdf] </a><br />
+</li>
+
 <li>Bidirectional Recurrent Gamma Belief Network for HRRP Target Recognition<br />
 Wenchao Chen, Bo Chen, Yicheng Liu, Xiaojun Peng, Haoyang Fan, <b>Fangxu Yu</b>, Hongwei Liu<br />
 Signal Processing, 2021 <a href="https://arxiv.org/pdf/2402.08679">[pdf]</a><br />
