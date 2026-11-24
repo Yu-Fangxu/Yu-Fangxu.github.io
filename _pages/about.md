@@ -26,7 +26,7 @@ My recent research topics include:
 (3) Emotion & Social Reasoning: 
 [EACL](https://arxiv.org/abs/2403.20289),
 [ECGN](https://aclanthology.org/2025.findings-acl.88/),
-[PersuasiveToM](https://arxiv.org/abs/2502.21017)
+[PersuasiveToM](https://arxiv.org/abs/2502.21017),
 [EmoRouter](https://arxiv.org/abs/2611.28960)
 
 (4) AI Safety: 
