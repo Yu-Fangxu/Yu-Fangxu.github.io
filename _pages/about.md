@@ -27,6 +27,7 @@ My recent research topics include:
 [EACL](https://arxiv.org/abs/2403.20289),
 [ECGN](https://aclanthology.org/2025.findings-acl.88/),
 [PersuasiveToM](https://arxiv.org/abs/2502.21017)
+[EmoRouter](https://arxiv.org/abs/2611.28960)
 
 (4) AI Safety: 
 [COLD-Attack](https://arxiv.org/abs/2402.08679)
@@ -39,6 +40,8 @@ My recent research topics include:
 
 
 ## News
+
+**November 2026**: One paper is accepted to TMLR! We propose EmoRouter, a conformal modality routing framework that adaptively cascades through modalities for efficient and reliable multimodal emotion recognition.
 
 **July 2026**: One paper is accepted to TMLR! We propose TS-Reasoner, a new time series LLM for reasoning by aligning the Time Series Foundation Model with an LLM. In addition, we introduce a simple time series captioning approach for large-scale alignment data construction.
 
