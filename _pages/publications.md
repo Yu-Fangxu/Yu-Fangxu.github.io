@@ -87,12 +87,12 @@ Findings of NAACL, 2024 <a href="https://aclanthology.org/2024.findings-naacl.28
 <ul>
 
 <li>EmoRouter: Adaptive Modality Cascading for Multimodal Emotion Recognition<br />
-<b>Fangxu Yu</b>, Hongyu Zhao, Tianyi Zhou<br />
+<b>Fangxu Yu</b>, Lingzhi Yuan, Dehai Min, Tao Feng, Ge Liu, Furong Huang, Tianyi Zhou<br />
 TMLR, 2026 <a href="https://arxiv.org/abs/2611.28960">[pdf] </a><br />
 </li>
 
 <li>TS-Reasoner: Aligning Time Series Foundation Models with LLM Reasoning <br />
-<b>Fangxu Yu</b>, Lingzhi Yuan, Dehai Min, Tao Feng, Ge Liu, Furong Huang, Tianyi Zhou<br />
+<b>Fangxu Yu</b>, Hongyu Zhao, Tianyi Zhou<br />
 TMLR, 2026 <a href="https://arxiv.org/abs/2510.03519">[pdf] </a><br />
 </li>
 
